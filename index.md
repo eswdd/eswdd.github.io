@@ -1,6 +1,6 @@
 ---
 ---
-Simon Matic Langford (aka eswdd)
+Simon Matic Langford (aka [eswdd](https://github.com/eswdd))
 ================================
 
 Current employer on Github: [Betfair](http://betfair.github.io)
