@@ -13,4 +13,6 @@ The main projects I contribute to:
 
 [My Android Apps](https://play.google.com/store/apps/developer?id=exemel+software)
 
+[My LinkedIn Profile](http://www.linkedin.com/in/maticlangford)
+
 ![Project Euler profile](http://projecteuler.net/profile/eswdd.png)
