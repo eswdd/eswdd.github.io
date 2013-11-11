@@ -3,7 +3,7 @@
 Simon Matic Langford (aka [eswdd](https://github.com/eswdd))
 ================================
 
-Current employer on Github: [Betfair](http://betfair.github.io)
+My current employer is not on GitHub.
 
 The main projects I contribute to:
 * [http://github.com/betfair/maven-test-process-plugin](http://github.com/betfair/maven-test-process-plugin)
