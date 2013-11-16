@@ -14,4 +14,4 @@ The main projects I contribute to:
 
 [My LinkedIn Profile](http://www.linkedin.com/in/maticlangford)
 
-![Project Euler profile](http://projecteuler.net/profile/eswdd.png)
+![Project Euler profile](http://projecteuler.net/profile/eswdd.png)![Project Euler profile](http://projecteuler.net/profile/eswdd_r.png)![Project Euler profile](http://projecteuler.net/profile/eswdd_erlang.png)
