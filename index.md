@@ -2,6 +2,7 @@
 ---
 Simon Matic Langford (aka [eswdd](https://github.com/eswdd))
 ================================
+_Operational dev - polyglot acolyte_
 
 My blog (not massively active): [Distributed Virgin](http://distributedvirgin.blogspot.co.uk/)
 
