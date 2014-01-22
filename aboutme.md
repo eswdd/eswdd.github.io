@@ -1,5 +1,10 @@
 ---
+layout: page
+title: "About me"
+description: ""
 ---
+{% include JB/setup %}
+
 Simon Matic Langford (aka [eswdd](https://github.com/eswdd))
 ================================
 _Polyglot operational developer_
