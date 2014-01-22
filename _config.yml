@@ -11,7 +11,7 @@ pygments: true
 title : Diary of a Distributed Virgin
 tagline: My journey from total newbie to somewhere else, mostly covering the topic of distributed systems, but occasionally, or rather often on anything that takes my fancy.
 author :
-  name : Simon Matic Langford
+  name : Simon Matić Langford
   email : simon@exemel.co.uk
   github : eswdd
   twitter : eswddd
@@ -80,7 +80,7 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider : false
     disqus :
       short_name : jekyllbootstrap
     livefyre :
@@ -98,7 +98,7 @@ JB :
   # Set 'provider' to false to turn analytics off globally.
   #        
   analytics :
-    provider : google 
+    provider : false 
     google : 
         tracking_id : 'UA-123-12'
     getclicky :
