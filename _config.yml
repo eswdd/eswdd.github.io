@@ -8,8 +8,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Diary of a Distributed Virgin
-tagline: My journey from total newbie to somewhere else, mostly covering the topic of distributed systems, but occasionally, or rather often on anything that takes my fancy.
+title : "Diary of a Distributed Virgin"
+tagline: "My journey from total newbie to somewhere else, mostly covering the topic of distributed systems, but occasionally, or rather often on anything that takes my fancy."
 author :
   name : Simon Matić Langford
   email : simon@exemel.co.uk
