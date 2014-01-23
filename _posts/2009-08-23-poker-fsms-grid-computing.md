@@ -3,7 +3,7 @@ layout: post
 title: "Poker, FSMs & Grid Computing"
 description: ""
 category: 
-tags: [books]
+tags: [fsm, grid computing, poker]
 ---
 {% include JB/setup %}
 
