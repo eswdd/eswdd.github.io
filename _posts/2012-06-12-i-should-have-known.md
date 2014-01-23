@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I should have known"
+title: "I should have known..."
 description: ""
 category: 
 tags: [books]
