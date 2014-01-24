@@ -38,7 +38,7 @@ One other example before I leave it for today... The next pattern is called "Rep
 
 Ok, good start, we continue with the solution:
 
-Provide a group of component implementations instead of a single implementation, and replicate these implementations across different network nodes. Forward client requests on the component interface to all implementation instances, and wait until one of the instances returns a result.
+> Provide a group of component implementations instead of a single implementation, and replicate these implementations across different network nodes. Forward client requests on the component interface to all implementation instances, and wait until one of the instances returns a result.
 
 Wait, this sounds like a [paper](http://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf) I glanced through recently. Unfortunately that's where the book stops. The paper goes into somewhat more detail, unearthing an important piece of information with regard to this pattern. The pattern is assuming fail-stop failures - it's invalid if the instances can suffer Byzantine failures. A quick trawl of the index finds no reference to Byzantine failures, which is worrying, given that they are [real](http://status.aws.amazon.com/s3-20080720.html).
 
