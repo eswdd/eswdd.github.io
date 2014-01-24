@@ -8,7 +8,7 @@ REPO=https://github.com/eswdd/eswdd.github.io.git
 
 echo "Repository: $REPO"
 
-git clone -b master https://$REPO repo
+git clone -b master $REPO repo
 
 cd $TMP_DIR/repo
 bundle exec jekyll build --trace --config _config.yml
