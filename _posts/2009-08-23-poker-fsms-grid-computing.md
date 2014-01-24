@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Poker, FSMs & Grid Computing"
+title: "Poker, FSMs &amp; Grid Computing"
 description: ""
 category: 
 tags: [fsm, grid computing, poker]
