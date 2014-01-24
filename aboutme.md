@@ -9,8 +9,6 @@ Simon Matic Langford (aka [eswdd](https://github.com/eswdd))
 ================================
 _Polyglot operational developer_
 
-My blog (not massively active): [Distributed Virgin](http://distributedvirgin.blogspot.co.uk/)
-
 The main projects I contribute to:
 * [http://github.com/betfair/maven-test-process-plugin](http://github.com/betfair/maven-test-process-plugin)
 * [http://github.com/betfair/virtualheap](http://github.com/betfair/virtualheap)
