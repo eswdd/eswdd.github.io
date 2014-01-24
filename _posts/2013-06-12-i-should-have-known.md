@@ -2,6 +2,7 @@
 layout: post
 title: "I should have known..."
 description: ""
+date: 2013-06-12 18:10:00
 category: 
 tags: [books]
 ---
