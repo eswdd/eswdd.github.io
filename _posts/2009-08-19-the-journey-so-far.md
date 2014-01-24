@@ -2,6 +2,7 @@
 layout: post
 title: "The journey so far..."
 description: ""
+date: 2009-08-19 22:54:00
 category: 
 tags: [distributed computing, failure]
 ---
