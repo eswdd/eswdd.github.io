@@ -2,6 +2,7 @@
 layout: post
 title: "Poker, FSMs &amp; Grid Computing"
 description: ""
+date: 2009-08-23 17:58:00
 category: 
 tags: [fsm, grid computing, poker]
 ---
