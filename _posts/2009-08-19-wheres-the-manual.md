@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Where's the manual?"
+title: "Where&quot;s the manual?"
 date: 2009-08-19 22:35:00
 description: ""
 category: 
