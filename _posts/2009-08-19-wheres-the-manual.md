@@ -8,7 +8,7 @@ tags: [grid computing]
 ---
 {% include JB/setup %}
 
-Let's start with an admission. I'm a Java developer. Just a Java developer*. I've only ever coded serious applications in Java (by serious I mean >1000 lines and not written for some university coursework). I like to think I'm a reasonable developer, not the best I know, but definitely not the worst either. I also like to think I'm not just a servlet dude, but my default behaviour (which is hard to change) when encountering some new concept is to ask: Where's a [free](http://www.gnu.org/philosophy/free-sw.html) library I can use to do this now? Where's the [getting](http://struts.apache.org/2.x/docs/bootstrap.html) [started](http://www.sitepoint.com/article/java-servlets-1/) [guide](http://www.informit.com/guides/content.aspx?g=java&seqNum=447)?
+Let's start with an admission. I'm a Java developer. Just a Java developer\*. I've only ever coded serious applications in Java (by serious I mean >1000 lines and not written for some university coursework). I like to think I'm a reasonable developer, not the best I know, but definitely not the worst either. I also like to think I'm not just a servlet dude, but my default behaviour (which is hard to change) when encountering some new concept is to ask: Where's a [free](http://www.gnu.org/philosophy/free-sw.html) library I can use to do this now? Where's the [getting](http://struts.apache.org/2.x/docs/bootstrap.html) [started](http://www.sitepoint.com/article/java-servlets-1/) [guide](http://www.informit.com/guides/content.aspx?g=java&seqNum=447)?
 
 So, onto distributed computing systems. I know I need to distribute my software to [scale](http://www.mvdirona.com/jrh/talksAndPapers/JamesRH_Lisa.pdf) to internet volumes. I know I need to think about failure - of machines, of racks, of [datacentres](http://www.facilitiesnet.com/datacenters/article/Crash-Data-Center-Horror-Stories--5390), of [countries](http://news.bbc.co.uk/1/hi/technology/7792688.stm). I know I need to distribute my application onto many nodes in order to solve these problems, and I know that simple [J2EE clustering](http://oreilly.com/catalog/jservlet2/chapter/ch12.html#32026) just ain't gonna cut it. So I need something better, so where's that damn library?
 
@@ -24,4 +24,4 @@ And that's where the story begins. This blog is my journey through the theory an
 
 Thanks for listening.
 
-* OK, so I also play at being an architect and have been known to lead teams, but it spoils the effect.
+\* OK, so I also play at being an architect and have been known to lead teams, but it spoils the effect.
