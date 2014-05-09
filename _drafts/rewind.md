@@ -8,3 +8,10 @@ I've been re-reading the paltry few posts I wrote back in 2009, and I'm shocked 
 
 1. In the Distributed Systems team, working for the aforementioned [Dan Creswell](http://dancres.org).
 2. Leading (and later working in) the Exchange team, working on re-engineering a high volume service (that's service in the sense of a logical entity providing >=1 network exposed well defined interfaces, rather than a single process).
+
+Euler
+Mention interview @ FB - disastrous, kindled interest in CS
+Masses of study, AOCP
+New languages
+New job
+Interest in monitoring distributed systems, opentsdb
