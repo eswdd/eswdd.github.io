@@ -4,6 +4,10 @@ title: Caching
 ---
 {% include JB/setup %}
 
+ * purpose
+  * faster data access
+  * protect data store
+  * both
  * simple caching
   * sizing
   * invalidation
