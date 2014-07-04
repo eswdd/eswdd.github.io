@@ -10,6 +10,9 @@ Yet another caching post? Well yes, there are a lot of posts and articles about 
 
 So where to start? Let's try the beginning.
 
+## Why are you caching?
+
+Seems an obvious question doesn't it, but I don't think everyone truly thinks about what they're trying to achieve with their caching, and it does rather influence some of your choices later on.
 
 
  * purpose
