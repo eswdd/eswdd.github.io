@@ -7,6 +7,7 @@ category:
 tags: [grid computing]
 ---
 {% include JB/setup %}
+
 **Historical note:** *This post written under the previous blog name 'Diary of a Distributed Virgin'*
 
 Let's start with an admission. I'm a Java developer. Just a Java developer\*. I've only ever coded serious applications in Java (by serious I mean >1000 lines and not written for some university coursework). I like to think I'm a reasonable developer, not the best I know, but definitely not the worst either. I also like to think I'm not just a servlet dude, but my default behaviour (which is hard to change) when encountering some new concept is to ask: Where's a [free](http://www.gnu.org/philosophy/free-sw.html) library I can use to do this now? Where's the [getting](http://struts.apache.org/2.x/docs/bootstrap.html) [started](http://www.sitepoint.com/article/java-servlets-1/) [guide](http://www.informit.com/guides/content.aspx?g=java&seqNum=447)?
