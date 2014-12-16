@@ -6,7 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-Simon Matic Langford (aka [eswdd](https://github.com/eswdd))
+Simon Matić Langford (aka [eswdd](https://github.com/eswdd))
 ================================
 _Polyglot operational developer_
 
