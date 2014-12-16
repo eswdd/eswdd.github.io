@@ -7,6 +7,7 @@ category:
 tags: [fsm, grid computing, poker]
 ---
 {% include JB/setup %}
+
 **Historical note:** *This post written under the previous blog name 'Diary of a Distributed Virgin'*
 
 As mentioned earlier, I've had the privilege of spending some time working in online Poker. To change a system built for one set of non-functional requirements, to another set of much more challenging ones is rather hard. This got myself and my team thinking about ways to build a system from scratch (it's always nice to dream). Thankfully, being a little more risk averse to the average cowboy developer, and not wanting to throw away production hardened code, we've decided to take a different approach. Which means I can talk about the grand ideas that were...  
