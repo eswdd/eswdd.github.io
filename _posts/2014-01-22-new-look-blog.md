@@ -7,6 +7,8 @@ tags: []
 ---
 {% include JB/setup %}
 
+**Historical note:** *This post written under the previous blog name 'Diary of a Distributed Virgin'*
+
 New job, new year, new year's resolution: I'm going to blog more.
 
 I really didn't like the look of my blog hosted on blogspot, and with most of my online time spent on [GitHub](http://www.github.com), I've decided to move the blog to hosting with GitHub pages. It let's me choose the styling, let's me write in Markdown, which I've really come to like, and consolidates where I spend my time.
