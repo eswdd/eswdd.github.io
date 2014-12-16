@@ -8,6 +8,8 @@ tags: [books]
 ---
 {% include JB/setup %}
 
+**Historical note:** *This post written under the previous blog name 'Diary of a Distributed Virgin'*
+
 So, it's been a while since I posted anything on my blog, but I feel like having another go. I found a couple of old posts I'd been working on before I apparently gave up, so I thought I'd pop them up since I put the effort into writing them in the first place...
  
 
