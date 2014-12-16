@@ -8,6 +8,7 @@ tags: [distributed computing, failure]
 ---
 {% include JB/setup %}
 
+*Historical note:* This post written under the previous blog name 'Diary of a Distributed Virgin'
 
 Funnily enough, I didn't wake up one day and decide that I needed to learn about distributed systems. I did wake up one day (Tuesday to be precise) and decide to blog about the process, but that's another thing entirely - in fact it came to me whilst cycling home from work. I like cycling.
 
